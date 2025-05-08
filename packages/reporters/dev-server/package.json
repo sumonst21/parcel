@@ -20,8 +20,8 @@
     "@parcel/plugin": "^2.0.0-alpha.3.1",
     "@parcel/utils": "^2.0.0-alpha.3.1",
     "connect": "^3.7.0",
-    "ejs": "^2.6.1",
-    "http-proxy-middleware": "^0.19.1",
+    "ejs": "^3.1.10",
+    "http-proxy-middleware": "^3.0.3",
     "mime": "^2.4.4"
   },
   "devDependencies": {
